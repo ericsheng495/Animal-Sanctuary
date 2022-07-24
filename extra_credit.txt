@@ -1,0 +1,11 @@
+Feature 1)
+    - adding pictures for each animal to show when they are in the sanctuary for dogs, birds, cats, and squirrel.
+
+Feature 2)
+    - added a queue for the animals that cannot fit inside the sanctuary.
+    - the queue animals will be added when the sanctuary animals are removed.
+    - Note: for the queue to work, the user must specify the animal type, otherwise, it will not be added to the queue!
+    - Creates a confirmation pop-up after adding to the queue.
+    - Shows how many animals are ahead of you in the queue.
+
+
